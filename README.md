@@ -176,7 +176,7 @@ OK
 2. Create at least 2 functions for practice.
 3. Check out [test_my_code.py](test_my_code.py) file. This file will test your code once you upload to GitHub!
 4. Upload to GitHub once you are done.
-5. Go to your repository and check `Actions` tab. After every commit you make, GitHub runs `test_my_code.py` file to validate if your code is satisfactory. See example of an output in my [assignment-0-metinsenturk/actions](https://github.com/spu-bigdataanalytics-212/assignment-0-metinsenturk/actions).
+5. Go to your repository and check `Actions` tab. After every commit you make, GitHub runs `test_my_code.py` file to validate if your code is satisfactory. See example of an output in my [assignment-0-metinsenturk/actions](https://github.com/spu-bigdataanalytics-213/assignment-0-metinsenturk/actions).
 6. Click the green button at the top of the repo, and do `Download ZIP`.
 7. As a practice, **download your repository** and **upload it to blackboard** as your first assignment!
 8. That's it.
